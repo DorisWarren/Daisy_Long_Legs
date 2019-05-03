@@ -26,4 +26,6 @@ adding components to daisy long legs
 
 creating check out form
 
-create token to securely transmit card info 
+create token to securely transmit card info
+
+add functionality to Checkout Form components submit method so that clicking the Purchase button tokenizes info and send to server
