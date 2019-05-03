@@ -35,3 +35,5 @@ installed express body-parse stripe
 doing research on how to desgin payments cart with react
 
 also looking up backend portion to this process
+
+looking up how to use API key authorization
