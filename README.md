@@ -16,4 +16,6 @@ Continuation on stripe video
 
 Reading about lambda, what is it used for. creating a serverless site?
 
-Going to attempt building eCommerce site making API calls useing react 
+Going to attempt building eCommerce site making API calls useing react
+
+Just created new app under daisy long legs - used yarn to build environment
