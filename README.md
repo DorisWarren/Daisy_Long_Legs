@@ -24,4 +24,6 @@ add yarn react-stripe-elements library that is responsible for communicating wit
 
 adding components to daisy long legs
 
-creating check out form 
+creating check out form
+
+create token to securely transmit card info 
