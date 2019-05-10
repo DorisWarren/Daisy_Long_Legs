@@ -6,4 +6,4 @@
 
 ## Description
 
-_eCommerce website that will deliver plants to your door step 
+_eCommerce website that will deliver plants to your door step selling bonsais plants and cacti
