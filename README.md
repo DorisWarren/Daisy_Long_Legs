@@ -43,6 +43,6 @@ _Our mission is to make the experience of discovering the perfect potted plants 
 
 | Pain Points   | Needs         | Solution |
 | ------------- |:-------------:| -----:|
-| col 3 is      | As a shopperI want to view a list of products so I can select some to purchse | $1600 |
+| col 3 is      | As a shopperI want to view a list of products so I can select some to purchase | * _See a thumbnail image for each product_ * _ |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
