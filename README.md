@@ -2,7 +2,7 @@
 
 #### _CapStone Project_
 
-#### Author: _**Doris Warren**_
+#### By: _**Doris Warren**_
 
 ## Description
 
@@ -12,10 +12,12 @@ _Our mission is to make the experience of discovering the perfect potted plants 
 
 ## UVP
 
+* PURPOSE OF THE TALL DAISY CREATION
+
 * _Allowing users to have access to a simple platform, where you can purchase plants and have them delivered to you._
-* _To allow users to buy a variety of plants through an eCommerce platform._
-* _Solving the problem of having to take time to drive to a nursery._
-* _
+* _Users will be able to buy a variety of plants through an eCommerce platform._
+* _Tall Daisy solves the problem of having to take time to drive to a nursery._
+* _It will make it easier for people who do not have the time to get around or have access to plants by having them delivered to them._
 
 
 ## MVP Features
