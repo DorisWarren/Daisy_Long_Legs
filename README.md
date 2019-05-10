@@ -37,4 +37,12 @@ _Our mission is to make the experience of discovering the perfect potted plants 
 
 ## Future Features
 
-## User Personas | Stories
+* Still working on current features
+
+## User Stories
+
+| Customer        | eCommerce       | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
