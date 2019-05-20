@@ -54,3 +54,4 @@ Testing Api key
 Working on api function
 working on stripe elements
 Trying to figure out a few bugs
+still updating and implementing checkout
