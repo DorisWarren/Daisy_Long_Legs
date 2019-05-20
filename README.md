@@ -60,3 +60,4 @@ adding new compoenents
 add styling
 add more compoentns
 add to header
+adding to nav bar
