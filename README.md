@@ -59,3 +59,4 @@ adding to checkout component
 adding new compoenents
 add styling
 add more compoentns
+add to header
