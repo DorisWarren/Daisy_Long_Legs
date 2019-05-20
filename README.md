@@ -61,3 +61,5 @@ add styling
 add more compoentns
 add to header
 adding to nav bar
+adding details to nav bar
+add images 
