@@ -52,4 +52,5 @@ _Our mission is to make the experience of discovering the perfect potted plants 
 Testing Api key
 
 Working on api function
-working on stripe elements 
+working on stripe elements
+Trying to figure out a few bugs
