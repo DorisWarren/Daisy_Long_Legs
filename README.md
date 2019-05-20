@@ -57,3 +57,4 @@ Trying to figure out a few bugs
 still updating and implementing checkout
 adding to checkout component
 adding new compoenents
+add styling
